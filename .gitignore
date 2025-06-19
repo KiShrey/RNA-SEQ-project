@@ -1,0 +1,10 @@
+# Ignore system files
+.DS_Store
+
+# Ignore large SRA and FASTQ folders
+sra/
+fastq/
+
+# Ignore local tools
+sratoolkit.*/
+*.tar.gz
