@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1040813	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040813_fastqc.zip
+FastQC	all_sections	SRR1040814	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040814_fastqc.zip
+FastQC	all_sections	SRR1040879	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040879_fastqc.zip
+FastQC	all_sections	SRR1040880	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040880_fastqc.zip
+FastQC	all_sections	SRR1040881	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040881_fastqc.zip
+FastQC	all_sections	SRR1040882	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040882_fastqc.zip
+FastQC	all_sections	SRR1040883	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040883_fastqc.zip
+FastQC	all_sections	SRR1040884	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040884_fastqc.zip
+FastQC	all_sections	SRR1040885	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040885_fastqc.zip
+FastQC	all_sections	SRR1040886	/Users/kirtishreyaa/Documents/RNA-SEQ project/qc/fastqc/SRR1040886_fastqc.zip
